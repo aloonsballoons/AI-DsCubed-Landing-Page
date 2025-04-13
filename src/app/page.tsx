@@ -11,8 +11,11 @@ export default function Page() {
       <section id="hero">
         <Hero />
       </section>
+      
+      
 
       <section id="about">
+        <Navbar />
         <About />
       </section>
       
